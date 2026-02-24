@@ -1,0 +1,9 @@
+load_date,party_id,address_line_1,address_line_2,city,state,country
+2023-01-01,P1,123 Street,,New York,NY,USA
+2023-01-01,P2,456 Avenue,,Chicago,IL,USA
+2023-01-01,P3,789 Road,,London,,UK
+2023-01-01,P4,10 Downing St,,London,,UK
+2023-01-01,P5,Main Street,,Berlin,,Germany
+2023-02-01,P6,Park Ave,,Boston,MA,USA
+2023-02-01,P7,5th Ave,,New York,NY,USA
+2023-02-01,P8,Central Str,,Munich,,Germany

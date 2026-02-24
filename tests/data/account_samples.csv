@@ -1,0 +1,10 @@
+load_date,active_ind,account_id,source_sys,account_start_date,legal_title_1,legal_title_2,tax_id_type,tax_id,branch_code,country
+2023-01-01,1,A1,SYS1,2020-01-01,Acosta Inc,David Walker,PAN,TX111,B001,USA
+2023-01-01,1,A2,SYS1,2021-05-10,Global Corp,,PAN,TX222,B002,USA
+2023-01-01,0,A3,SYS2,2019-03-15,Test Company,John Doe,PAN,TX333,B003,UK
+2023-01-01,1,A4,SYS1,2022-07-20,Alpha Ltd,,PAN,TX444,B004,UK
+2023-01-01,1,A5,SYS2,2023-01-01,Beta LLC,Jane Smith,PAN,TX555,B005,Germany
+2023-02-01,1,A6,SYS1,2023-02-01,Gamma Inc,,PAN,TX666,B006,USA
+2023-02-01,1,A7,SYS1,2023-02-05,Delta Ltd,,PAN,TX777,B007,USA
+2023-02-01,0,A8,SYS2,2023-02-10,Epsilon Co,,PAN,TX888,B008,UK
+2023-02-01,1,A9,SYS2,2023-02-15,Zeta LLC,,PAN,TX999,B009,Germany
